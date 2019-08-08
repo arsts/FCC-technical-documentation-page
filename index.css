@@ -1,0 +1,11 @@
+/* NAV */
+nav {
+  position: fixed;
+  min-width: 290px;
+}
+
+/* MAIN */
+main {
+  position: absolute;
+  margin-left: 310px;
+}
